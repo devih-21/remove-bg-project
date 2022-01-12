@@ -23,7 +23,7 @@ body .body {
 .page {
   overflow: hidden;
   background-color: #fff;
-  padding: 50px 0;
+  padding: 100px 0;
 }
 
 *:focus { 
@@ -1178,7 +1178,7 @@ p.subtitle {
 }
 
 #face-analysis-content-section{
-	height: 1200px;
+	height: calc(100vh - 81px);
 }
 
 .wrap-infor{
