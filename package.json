@@ -1,0 +1,25 @@
+{
+  "name": "ocr-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "jquery": "3.5.1",
+    "next": "9.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-json-view": "^1.21.3",
+    "react-swipeable-views": "^0.14.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0"
+  }
+}
